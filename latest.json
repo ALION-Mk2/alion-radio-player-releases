@@ -1,0 +1,11 @@
+{
+  "name": "ALION Radio Player",
+  "version": "1.2.0",
+  "date": "2026-11-17",
+  "notes": "Song ID Spotify button opens the Spotify app, Reload button, in-app updates",
+  "bundle": {
+    "url": "https://raw.githubusercontent.com/ALION-Mk2/alion-radio-player-releases/main/releases/1.2.0/app-1.2.0.json",
+    "sha256": "3cd23fe495b4b7da8a5f9cf1c3e4d6b3fcd98fa35189a44693c7dcb2681cff25",
+    "size": 1042605
+  }
+}
